@@ -1,0 +1,15 @@
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.csproj.AssemblyReference.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.AssemblyInfoInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.AssemblyInfo.cs
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.csproj.CoreCompileInputs.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/bin/Debug/net6.0/array
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/bin/Debug/net6.0/array.deps.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/bin/Debug/net6.0/array.runtimeconfig.json
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/bin/Debug/net6.0/array.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/bin/Debug/net6.0/array.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/refint/array.dll
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.pdb
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/array.genruntimeconfig.cache
+/Users/Aleksandr/Desktop/GEEK BRAINS/3 месяц финальное ДЗ/array/obj/Debug/net6.0/ref/array.dll
